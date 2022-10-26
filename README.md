@@ -1,9 +1,19 @@
-<h1 align="center">Hi 👋, I'm Sanele Hlongwane</h1>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <div id="badges">
+  <img src="https://komarev.com/ghpvc/?username=vextorite&style=flat-square&color=blue" alt=""/>
+    <h1>
+      Hello There!
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    </h1>
+  </div>
+</div>
+
+
+<h1 align="center">I'm Sanele Hlongwane</h1>
 <h3 align="center">A passionate software dev from Cape Town, South Africa</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vextorite&label=Profile%20views&color=0e75b6&style=flat" alt="vextorite" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vextorite" alt="vextorite" /></a> </p>
 
 - 🔭 I’m currently working on **VexTrack**
 
@@ -28,6 +38,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vextorite&show_icons=true&locale=en&layout=compact" alt="vextorite" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vextorite&show_icons=true&locale=en" alt="vextorite" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vextorite&layout=compact)](https://github.com/vextorite/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vextorite&" alt="vextorite" /></p>
+### :fire: My Stats :
+![vextorite's GitHub stats](https://github-readme-stats.vercel.app/api?username=vextorite&show_icons=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vextorite)](https://git.io/streak-stats)
