@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on **VexTrack**
 
-- 🌱 I’m currently learning **Flutter, MongoDB**
+- 🌱 I’m currently learning **Flutter, Firebase**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vextorite](https://github.com/vextorite)
 
