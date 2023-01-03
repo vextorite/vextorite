@@ -15,9 +15,9 @@
 <h3 align="center">A passionate software dev from Cape Town, South Africa</h3>
 
 
-- 🔭 I’m currently working on **VexTrack**
+- 🔭 I’m currently working on **VSuite, a personal passion project**
 
-- 🌱 I’m currently learning **Flutter, Firebase**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vextorite](https://github.com/vextorite)
 
