@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vextorite](https://github.com/vextorite)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python, Oracle SQL**
 
 - 📫 How to reach me **Msizi.SaneleH@gmail.com**
 
